@@ -19,6 +19,9 @@
   <a href="https://www.linkedin.com/in/setyo-aldi/">
     <img src="https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin"  height="32" >
     </a>
+    <a href="mailto:setyoaldi97@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/-Gmail-000?&logo=gmail" height="32" />
+</a>
   </ul>
 </div>
 <hr/>
@@ -44,6 +47,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img src="https://img.shields.io/badge/-Typescript-000?&logo=typescript"  height="32" >
  </a> 
+  
 </ul>
 
 <!--
