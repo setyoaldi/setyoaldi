@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Achmad Setyo Aldi </h1>
 
+![](https://komarev.com/ghpvc/?username=setyoaldi&color=36b812)<br>
+![](https://img.shields.io/github/followers/setyoaldi?style=social)<br>
+![](https://img.shields.io/github/stars/setyoaldi?style=social)<br>
+
 ### :man_technologist: About Me :
 - 🌱 I’m currently learning and improving my front-end skills
 - 😍 Love watching movies, series and mobile gaming
