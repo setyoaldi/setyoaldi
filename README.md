@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Achmad Setyo Aldi </h1>
 
 ### :man_technologist: About Me :
-- 🌱 I’m currently learning how to improve my front-end skills
+- 🌱 I’m currently learning and improving my front-end skills
 - 😍 Love watching movies, series and mobile gaming
 - ⭐ Like explore about new trends in front end tech
 
@@ -52,9 +52,9 @@
 
 <h3 align="left">:gear: GitHub Analytics:</h3>
 <div align="center">
-<!--   <a href="https://github.com/setyoaldi">
+  <a href="https://github.com/setyoaldi">
     <img src="https://github-readme-stats.vercel.app/api?username=setyoaldi&show_icons=true&include_all_commits=true&count_private=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Commit Stats"/>
-  </a> -->
+  </a>
   <a href="https://github.com/setyoaldi">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=setyoaldi&layout=compact&langs_count=8&bg_color=000&title_color=fff&text_color=fff" alt="Language Stats"/>
   </a>
