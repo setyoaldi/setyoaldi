@@ -52,13 +52,13 @@
 <img src="https://img.shields.io/badge/-Typescript-000?&logo=typescript"  height="32" >
  </a> 
   <a href="https://tailwindcss.com/" target="_blank">
-<img src="https://img.shields.io/badge/-tailwindcss-000?logo=tailwind-css"  height="32" >
+<img src="https://img.shields.io/badge/-tailwindcss-000?logo=Tailwind-css"  height="32" >
   </a>
   <a href="https://www.figma.com" target="_blank">
-<img src="https://img.shields.io/badge/-figma-000?logo=figma"  height="32" >
+<img src="https://img.shields.io/badge/-figma-000?logo=Figma"  height="32" >
   </a>
   <a href="https://react.dev/" target="_blank">
-<img src="https://img.shields.io/badge/-react-000?logo=react"  height="32" >
+<img src="https://img.shields.io/badge/-react-000?logo=React"  height="32" >
   </a>
   
 </ul>
