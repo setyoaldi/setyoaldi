@@ -30,7 +30,7 @@
 </div>
 <hr/>
 
-### Tech Stack:
+### 💻 Tech Stack:
 
 <ul>
    <a href="https://html5up.net/" target="_blank">
@@ -53,6 +53,12 @@
  </a> 
   <a href="https://tailwindcss.com/" target="_blank">
 <img src="https://img.shields.io/badge/-tailwindcss-000?logo=tailwind-css"  height="32" >
+  </a>
+  <a href="https://www.figma.com" target="_blank">
+<img src="https://img.shields.io/badge/-figma-000?logo=figma"  height="32" >
+  </a>
+  <a href="https://react.dev/" target="_blank">
+<img src="https://img.shields.io/badge/-react-000?logo=react"  height="32" >
   </a>
   
 </ul>
