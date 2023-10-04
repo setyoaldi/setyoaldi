@@ -30,7 +30,7 @@
 </div>
 <hr/>
 
-### Languages:
+### Tech Stack:
 
 <ul>
    <a href="https://html5up.net/" target="_blank">
