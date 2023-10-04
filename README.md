@@ -51,6 +51,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img src="https://img.shields.io/badge/-Typescript-000?&logo=typescript"  height="32" >
  </a> 
+  <a href="https://tailwindcss.com/" target="_blank">
+<img src="https://img.shields.io/badge/-tailwindcss-000?logo=tailwind-css"  height="32" >
+  </a>
   
 </ul>
 
